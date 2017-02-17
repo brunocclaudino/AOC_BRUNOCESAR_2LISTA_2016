@@ -1,0 +1,2 @@
+A modificação necessaria no multiciclo para implementar o pipeline, seria acabar com o tempo ocioso dos processos, como por exemplo:
+caso  o primeiro estagio do processo seja finalizado ele vai para o proximo passo e nesse mesmo espaco de tempo ja chama o primeiro passo do proximo estagio.

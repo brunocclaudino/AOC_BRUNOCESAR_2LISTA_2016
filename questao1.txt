@@ -1,0 +1,6 @@
+Principais vantagens do multiciclo com realação ao processador uniciclo:
+
+– Instruções são executadas em quantidades diferentes de períodos
+de clock (caso comum pode ser melhorado)
+– Capacidade de compartilhar unidades funcionais (redução de
+custo)
